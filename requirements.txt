@@ -1,0 +1,5 @@
+streamlit
+phonenumbers
+folium
+streamlit-folium
+opencage
